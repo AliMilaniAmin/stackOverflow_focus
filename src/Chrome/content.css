@@ -3,6 +3,7 @@ body {
 }
 
 header{
+  display: none !important;
   width: 65% !important;
   margin: 20px auto !important;
   border-radius: 10px;
